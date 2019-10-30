@@ -1,0 +1,27 @@
+{
+  "name": "wireless-monitor",
+  "version": "1.0.0",
+  "description": "monitoramento de redes wireless de longa",
+  "main": "main.js",
+  "dependencies": {
+    "node-routeros": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaldojr100/wireless-monitor.git"
+  },
+  "keywords": [
+    "wirelles"
+  ],
+  "author": "evaldo jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evaldojr100/wireless-monitor/issues"
+  },
+  "homepage": "https://github.com/evaldojr100/wireless-monitor#readme"
+}
